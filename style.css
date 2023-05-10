@@ -4,5 +4,6 @@ body {
 
 .brand img {
     height: 35px;
+    width: auto;
 }
 
