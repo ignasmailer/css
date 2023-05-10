@@ -2,8 +2,13 @@ body {
     background: #ffffff;
 }
 
+header {
+    padding: 30px 0px 30px 0px;
+}
+
 .brand img {
-    height: 35px;
+    height: 36px;
     width: auto;
+    margin: 0px 0px 0px 0px;
 }
 
