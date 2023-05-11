@@ -11,4 +11,7 @@ header {
     width: auto;
     margin: 0px 0px 0px 0px;
 }
-
+.navbar-inner {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
