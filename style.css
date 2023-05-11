@@ -22,15 +22,13 @@ header {
 
 #docsSearch {
     background: #ffffff;
-    border-color: #101314;
-    border-opacity: 10%;
-    border-bottom-width: 1px;
-    border-top-width: 1px;
+    border-bottom: 1px solid #e7e7e7;
+    border-top: 1px solid #e7e7e7;
 }
 
 #searchBar button {
     background: #101314;
-    border: 1px solid #101314;
+    border: 1px solid #e7e7e7;
 }
 
 #searchBar button:hover {
@@ -38,6 +36,5 @@ header {
 }
 
 .category-list .category {
-    border: 1px solid #101314;
-    border-opacity: 10%;
+    border: 1px solid #e7e7e7;
 }
